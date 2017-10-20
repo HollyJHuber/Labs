@@ -86,6 +86,7 @@ footer{
 		display: flex;
 		justify-content: flex-end;
 		opacity: .8;
+		width: 40%;
 	}
 
 	.flexContainer{
@@ -97,6 +98,7 @@ footer{
 	.companyText{
 		flex-direction: column-reverse;
 		justify-content: flex-start;
+		width: 50%;
 	}
 	.navItemReverse, .navItemFooter{
 		width: 8em;
